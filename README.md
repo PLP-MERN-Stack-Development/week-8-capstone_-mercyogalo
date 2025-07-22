@@ -50,3 +50,49 @@ Your project will be automatically submitted when you push to your GitHub Classr
 - [React Documentation](https://react.dev/)
 - [Node.js Documentation](https://nodejs.org/en/docs/)
 - [GitHub Classroom Guide](https://docs.github.com/en/education/manage-coursework-with-github-classroom) 
+
+
+ai-project 
+A full-stack AI assistant web app, with a Node.js/Express backend and a Vite + React frontend.
+
+## 📂 Project Structure
+week-8-capstone/
+├── backend-part/
+     # Node.js backend with Express + MongoDB
+└── frontend-part/ my-ai-app/ 
+    # Vite + React frontend
+
+
+    Tech Stack
+Frontend: React + Vite + Tailwind CSS + DaisyUI
+
+Backend: Node.js + Express + Mongoose
+
+Database: MongoDB Atlas
+
+AI API: OpenRouter mistralai/mistral-7b-instruct
+
+    
+## 🚀 Getting Started
+## Backend Setup
+
+1. Navigate to the backend directory:
+   ```bash
+cd backend-part
+npm or pnpm install
+nodemon index.js
+
+
+2. Navigate to the frontend directory:
+   ```bash
+cd frontend-part
+npm or pnpm install
+npm run dev
+
+
+
+Hosted website link 
+https://ai-project-1-9gvt.onrender.com
+
+Video demonstration link
+https://x.com/mercyogalo1818/status/1947740237204959710?t=gl2cNJepVRyTYZS_IhaW_w&s=19

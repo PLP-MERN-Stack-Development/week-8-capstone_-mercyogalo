@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root{
+    --background-color:white;
+}
+
+body{
+    background-color: var(--background-color);
+    max-width: 100%;
+}
+.logoImage{
+    height:100px;
+    width:100px;
+    display: flex;
+    margin:0 auto;
+    border-radius: 50%;
+}
+.bg-light{
+    background-color: white;
+}
+.text-dark{
+    color: black;
+}
